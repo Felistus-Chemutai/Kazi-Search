@@ -1,0 +1,36 @@
+body {
+    font-family: 'Work Sans', sans-serif;
+  }
+  .nav {
+    background-color: cyan;
+    text-align: center; 
+    padding: 20px;
+    margin: 2px;
+  }
+  .nav li {
+    display: inline-block;
+    font-size: 20px;
+    padding: 15px;
+  }
+  h3{
+	  text-align:center;
+  }
+   h2{
+	  text-align:center;
+  }
+  a:link {
+  color: red;
+}
+
+a:visited {
+  color: blue;
+}
+a:hover {
+  color: red;
+}
+a:active {
+  color: yellow;
+}
+.about{
+	font-size: 50px;
+}

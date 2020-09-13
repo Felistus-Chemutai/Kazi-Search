@@ -1,8 +1,9 @@
 body {
     font-family: 'Work Sans', sans-serif;
+	background-color:aqua;
   }
   .nav {
-    background-color: cyan;
+    background-color: indigo;
     text-align: center; 
     padding: 20px;
     margin: 2px;
@@ -33,4 +34,9 @@ a:active {
 }
 .about{
 	font-size: 50px;
+}
+#jobs{
+	display:inline-block;
+	
+	
 }

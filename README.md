@@ -1,2 +1,2 @@
 # Moringa
-This website is about jpb searching.
+This website is about job searching.Please visit my site for existing and new jobs.
